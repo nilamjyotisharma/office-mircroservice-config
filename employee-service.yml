@@ -9,7 +9,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   boot:
-    message: "Hi, This is Employee Service"
+    message: "Hi, This is Employee Service Updated"
 
   jpa:
     hibernate:
