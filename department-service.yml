@@ -9,7 +9,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   boot:
-    message: "Hello, This is Department Service Updated"
+    message: "Hello, This is Department Service Test"
 
   jpa:
     hibernate:
